@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposLoader
-// @namespace   AposLoader
+// @name        rajbirvirkkk
+// @namespace   rajbirvirkkk
 // @description Grabs latest versions of the bot scripts automatically.
 // @include     http://agar.io/
 // @version     1.3
